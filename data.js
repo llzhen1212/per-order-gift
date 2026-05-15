@@ -28,7 +28,7 @@ const benefits = [
     image: "images/LSF正二wvs電子專版.png",
     link: "https://share.weverseshop.io/static/shares/sale/57277",
     note: "預售到5/21 22：59"
-  }
+  },
   {
     group: "LE SSERAFIM",
     album: "‘PUREFLOW’ pt.1",
@@ -38,7 +38,7 @@ const benefits = [
     image: "images/LSF正二wvs相機版.png",
     link: "https://share.weverseshop.io/static/shares/sale/59074",
     note: "暫售罄"
-  }
+  },
   {
     group: "LE SSERAFIM",
     album: "‘PUREFLOW’ pt.1",

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>特典整理站</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>特典整理站</h1>
+    <p>整理專輯版本、通路特典圖與購買連結</p>
+  </header>
+
+  <section class="filters">
+    <input id="searchInput" type="text" placeholder="搜尋團體、專輯、通路...">
+
+    <select id="storeFilter">
+      <option value="">所有通路</option>
+    </select>
+
+    <select id="versionFilter">
+      <option value="">所有版本</option>
+    </select>
+  </section>
+
+  <main id="cardContainer" class="card-container"></main>
+
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

@@ -179,4 +179,24 @@ const benefits = [
     link: "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=B000000255862",
     note: "預售到5/28 22：59"
   },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Set ver.",
+    store: "MUSINSA",
+    type: "小卡一套",
+    image: "images/LSF正二MusinsaPB版.png",
+    link: "https://musinsa.onelink.me/ANAQ/b9zlfb20",
+    note: "5/7～5/31 22：59"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "COMPACT ver.",
+    store: "MUSINSA",
+    type: "小卡一套+團卡",
+    image: "images/LSF正二Musinsa單封版.png",
+    link: "https://musinsa.onelink.me/ANAQ/ma0qctvp",
+    note: "5/7～5/31 22：59"
+  },
 ];

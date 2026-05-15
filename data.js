@@ -97,6 +97,76 @@ const benefits = [
     type: "小卡一套+團體A4資料夾",
     image: "images/LSF正二環球PBset版.jpg",
     link: "https://store-annex.universal-music.co.jp/product/dsku15932/",
-    note: "6/1～6/15出貨"
+    note: "6/1開始出貨"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "四型態",
+    store: "UNIVERSAL MUSIC STORE",
+    type: "小卡5隨1",
+    image: "images/LSF正二環球PB版.jpg",
+    link: "https://store-annex.universal-music.co.jp/product/dsku15933/",
+    note: "6/1開始出貨"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "六型態set",
+    store: "UNIVERSAL MUSIC STORE",
+    type: "小卡一套",
+    image: "images/LSF正二環球單封版.jpg",
+    link: "https://store-annex.universal-music.co.jp/product/dsku15934/",
+    note: "6/1開始出貨"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "六型態",
+    store: "UNIVERSAL MUSIC STORE",
+    type: "小卡6隨1",
+    image: "images/LSF正二環球單封版.jpg",
+    link: "https://store-annex.universal-music.co.jp/product/dsku15935/",
+    note: "6/1開始出貨"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "PB/單封 皆可",
+    store: "TOWER DECORDS",
+    type: "小卡5隨1",
+    image: "images/LSF正二塔店版.jpg",
+    link: "",
+    note: "線下抽特典"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "PB/單封 皆可",
+    store: "HMV",
+    type: "小卡5隨1",
+    image: "images/LSF正二HMV版.jpg",
+    link: "",
+    note: "線下抽特典"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "PB/單封 皆可",
+    store: "Amazon",
+    type: "小卡5隨1",
+    image: "images/LSF正二Amazon版.jpg",
+    link: "",
+    note: "線下抽特典"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "所有版本皆可",
+    store: "京東",
+    type: "小卡5隨1",
+    image: "images/LSF正二京東版.jpg",
+    link: "https://3.cn/-2O8H9l3",
+    note: "預售到5/21 22：59"
   },
 ];

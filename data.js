@@ -48,5 +48,15 @@ const benefits = [
     image: "images/LSF正二wvs相機版.png",
     link: "https://share.weverseshop.io/static/shares/sale/59073",
     note: "暫售罄"
-  }
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "四型態set",
+    store: "Weverse Shop Global",
+    type: "小卡一套+含透明相框的團體照",
+    image: "images/LSF正二wvsjpPBset版.png",
+    link: "https://share.weverseshop.io/static/shares/sale/57311",
+    note: "6/1～6/15出貨"
+  },
 ];

@@ -175,7 +175,7 @@ const benefits = [
     version: "Set ver.",
     store: "Olive Young",
     type: "小卡5隨1或5隨4",
-    image: "images/LSF正二oyPB版.png",
+    image: "images/LSF正二oyPB版.jpg",
     link: "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=B000000255862",
     note: "預售到5/28 22：59"
   },
@@ -198,5 +198,55 @@ const benefits = [
     image: "images/LSF正二Musinsa單封版.png",
     link: "https://musinsa.onelink.me/ANAQ/ma0qctvp",
     note: "5/7～5/31 22：59"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Standard ver.",
+    store: "MAKESTAR",
+    type: "小卡一套",
+    image: "images/LSF正二MSPB版.png",
+    link: "https://www.makestar.com/product/16832",
+    note: "5/7～5/21 21：59"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Standard ver.",
+    store: "MAKESTAR",
+    type: "小卡一套",
+    image: "images/LSF正二MSPB版.png",
+    link: "https://www.makestar.com/product/16832",
+    note: "5/7～5/21 21：59"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Standard ver.",
+    store: "MAKESTAR",
+    type: "小卡一套",
+    image: "images/LSF正二MSPB版.png",
+    link: "https://www.makestar.com/product/16832",
+    note: "5/7～5/21 21：59"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Standard ver.",
+    store: "MAKESTAR",
+    type: "小卡一套",
+    image: "images/LSF正二MSPB版.png",
+    link: "https://www.makestar.com/product/16832",
+    note: "5/7～5/21 21：59"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Standard ver.",
+    store: "MAKESTAR",
+    type: "小卡一套",
+    image: "images/LSF正二MSPB版.png",
+    link: "https://www.makestar.com/product/17621",
+    note: "5/7～5/21 21：59"
   },
 ];

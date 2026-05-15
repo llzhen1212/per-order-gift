@@ -53,10 +53,50 @@ const benefits = [
     group: "LE SSERAFIM",
     album: "‘PUREFLOW’ pt.1",
     version: "四型態set",
-    store: "Weverse Shop Global",
+    store: "Weverse Shop Japan",
     type: "小卡一套+含透明相框的團體照",
     image: "images/LSF正二wvsjpPBset版.png",
     link: "https://share.weverseshop.io/static/shares/sale/57311",
+    note: "6/1～6/15出貨"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "四型態",
+    store: "Weverse Shop Japan",
+    type: "小卡5隨1",
+    image: "images/LSF正二wvsjpPB版.png",
+    link: "https://share.weverseshop.io/static/shares/sale/57312",
+    note: "6/1～6/15出貨"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "六型態set",
+    store: "Weverse Shop Japan",
+    type: "小卡一套",
+    image: "images/LSF正二wvsjp單封版.png",
+    link: "https://share.weverseshop.io/static/shares/sale/57759",
+    note: "6/1～6/15出貨"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "六型態",
+    store: "Weverse Shop Japan",
+    type: "小卡6隨1",
+    image: "images/LSF正二wvsjp單封版.png",
+    link: "https://share.weverseshop.io/static/shares/sale/57314",
+    note: "6/1～6/15出貨"
+  },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "四型態set",
+    store: "UNIVERSAL MUSIC STORE",
+    type: "小卡一套+團體A4資料夾",
+    image: "images/LSF正二環球PBset版.png",
+    link: "https://store-annex.universal-music.co.jp/product/dsku15932/",
     note: "6/1～6/15出貨"
   },
 ];

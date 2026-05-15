@@ -15,7 +15,7 @@ const benefits = [
     version: "COMPACT ver.",
     store: "Weverse Shop Global",
     type: "小卡+專輯盒",
-    image: "images/LSF正二wvs單封版 png",
+    image: "images/LSF正二wvs單封版.png",
     link: "https://share.weverseshop.io/static/shares/sale/57275",
     note: "預售到5/21 22：59"
   },

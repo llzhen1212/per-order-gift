@@ -50,7 +50,7 @@ function renderCards(list) {
 
         <p class="note">${item.note}</p>
 
-        <a href="${item.link}" target="_blank">前往通路</a>
+        ${item.link ? `<a href="${item.link}" target="_blank">前往通路</a>` : ``}
       </div>
     `;
 

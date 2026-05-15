@@ -169,4 +169,14 @@ const benefits = [
     link: "https://3.cn/-2O8H9l3",
     note: "預售到5/21 22：59"
   },
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Set ver.",
+    store: "Olive Young",
+    type: "小卡5隨1或5隨4",
+    image: "images/LSF正二oyPB版.png",
+    link: "https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=B000000255862",
+    note: "預售到5/28 22：59"
+  },
 ];

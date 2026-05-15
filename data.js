@@ -29,4 +29,24 @@ const benefits = [
     link: "https://share.weverseshop.io/static/shares/sale/57277",
     note: "預售到5/21 22：59"
   }
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Mini Camera Black ver.",
+    store: "Weverse Shop Global",
+    type: "小卡C組",
+    image: "images/LSF正二wvs相機版.png",
+    link: "https://share.weverseshop.io/static/shares/sale/59074",
+    note: "暫售罄"
+  }
+  {
+    group: "LE SSERAFIM",
+    album: "‘PUREFLOW’ pt.1",
+    version: "Mini Camera Blue ver.",
+    store: "Weverse Shop Global",
+    type: "小卡D組",
+    image: "images/LSF正二wvs相機版.png",
+    link: "https://share.weverseshop.io/static/shares/sale/59073",
+    note: "暫售罄"
+  }
 ];

@@ -1,8 +1,9 @@
 const benefits = [
   {
+    id: "LSF-PUREFLOW-wvs-StandardSet"
     group: "LE SSERAFIM",
     album: "‘PUREFLOW’ pt.1",
-    version: "Set ver.",
+    version: "Standard Set ver.",
     store: "Weverse Shop Global",
     type: "小卡+紙質支架",
     image: "images/LSF正二wvsPB版.png",
